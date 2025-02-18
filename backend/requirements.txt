@@ -1,0 +1,13 @@
+flask
+flask-cors
+torch
+sentence-transformers
+transformers
+beautifulsoup4
+playwright
+requests
+pandas
+nltk
+scikit-learn
+numpy
+psycopg2
