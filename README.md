@@ -21,6 +21,9 @@ Our AI-powered tool finds related pages, identifies missing internal links, and 
 
 ![Output Image 2](images/Output2.png)
 
+
+![Sample Execution](images/Sample Recording.mp4)
+
 ---
 ## 🛠️ Tech Stack
 ### **Frontend:**
