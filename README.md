@@ -18,6 +18,9 @@ Our AI-powered tool finds related pages, identifies missing internal links, and 
 
 ![Output Image 1](images/Output1.png)
 
+
+![Output Image 2](images/Output2.png)
+
 ---
 ## 🛠️ Tech Stack
 ### **Frontend:**
