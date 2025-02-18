@@ -16,6 +16,8 @@ Our AI-powered tool finds related pages, identifies missing internal links, and 
 3. **Internal Link Suggestion Engine** – Detects hub and spoke pages, suggesting links based on relevance.
 4. **Actionable Report Generation** – Provides a prioritized list of missing internal links with recommended anchor texts.
 
+![Output Image 1](images/Output1.png)
+
 ---
 ## 🛠️ Tech Stack
 ### **Frontend:**
