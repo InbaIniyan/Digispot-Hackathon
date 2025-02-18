@@ -22,7 +22,10 @@ Our AI-powered tool finds related pages, identifies missing internal links, and 
 ![Output Image 2](images/Output2.png)
 
 
-![Sample Execution](images/Sample Recording.mp4)
+<video width="600" controls>
+  <source src="images/Sample Recording.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 ## 🛠️ Tech Stack
